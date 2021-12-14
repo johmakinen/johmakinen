@@ -40,6 +40,13 @@ This was a quite large school-related project, where we optimized the flight pat
 
 ### Classification
 
+#### Predict churning customers [![github_link](https://img.shields.io/badge/-Github-blueviolet?style=flat-square&logo=github&logoColor=white&link=https://github.com/johmakinen/Various_projects/blob/main/Notebooks/Credit_card_churn.ipynb)](https://github.com/johmakinen/Various_projects/blob/main/Notebooks/Credit_card_churn.ipynb)
+
+In this analysis, I explored a [dataset](https://www.kaggle.com/sakshigoyal7/credit-card-customers) of credit card customers and then created a Gradient Boosting Classifier to predict whether a customer would be churning out. This is an important task for many businesses because you can directly improve profits if you can improve customer retention. Using my model, we could target the customers that are predicted to churn out, and give them more benefits or target them with lucrative campaigns so that they would not drop out. The implemented model has high accuracy (F1 > 90%, AUC > 90%), but is also simple enough to be understood easily. 
+
+ 
+
+
 ### Clustering
 
 ### Natural language processing
