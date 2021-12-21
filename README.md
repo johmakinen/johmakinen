@@ -55,6 +55,4 @@ In this analysis, I explored a [dataset](https://www.kaggle.com/sakshigoyal7/cre
 
 #### House price data scraper [![github_link](https://img.shields.io/badge/-Github-blueviolet?style=flat-square&logo=github&logoColor=white&link=https://github.com/johmakinen/Various_projects/blob/main/Notebooks/house_scraper.ipynb)](https://github.com/johmakinen/Various_projects/blob/main/Notebooks/house_scraper.ipynb)
 
-[Work in progress]
-
-The objective is to create a data scraper for Finnish house data. The data is collected from one of the largest nationwide internet service for housing and real estate.
+I was not content with the data on house prices available in Finland, and thus I created a web scraper that could extract the prices of houses and apartments in any city of Finland. The scraper uses Selenium for the scraping and is implemented with an Object-Oriented Programming style. The data is then stored in an SQLite database for later use.
