@@ -38,6 +38,11 @@ This was a quite large school-related project, where we optimized the flight pat
 
 ### Regression
 
+#### Finnish house & apartment prices EDA and prediction [![github_link](https://img.shields.io/badge/-Github-blueviolet?style=flat-square&logo=github&logoColor=white&link=https://github.com/johmakinen/Various_projects/blob/main/Notebooks/House_prices.ipynb)](https://github.com/johmakinen/Various_projects/blob/main/Notebooks/House_prices.ipynb)
+
+[Work in progress]   
+This analysis utilizes the data I scraped before [here](https://github.com/johmakinen/Various_projects/blob/main/Notebooks/house_scraper.ipynb). The purpose of this analysis is to look at real data from the capital area of Finland regarding multiple types of houses and apartments. In the end, I would like to be able to predict the price of a house given some common features such as size, location and age. 
+
 ### Classification
 
 #### Predict churning customers [![github_link](https://img.shields.io/badge/-Github-blueviolet?style=flat-square&logo=github&logoColor=white&link=https://github.com/johmakinen/Various_projects/blob/main/Notebooks/Credit_card_churn.ipynb)](https://github.com/johmakinen/Various_projects/blob/main/Notebooks/Credit_card_churn.ipynb)
