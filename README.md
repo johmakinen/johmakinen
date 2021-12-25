@@ -40,8 +40,10 @@ This was a quite large school-related project, where we optimized the flight pat
 
 #### Finnish house & apartment prices EDA and prediction [![github_link](https://img.shields.io/badge/-Github-blueviolet?style=flat-square&logo=github&logoColor=white&link=https://github.com/johmakinen/Various_projects/blob/main/Notebooks/House_prices.ipynb)](https://github.com/johmakinen/Various_projects/blob/main/Notebooks/House_prices.ipynb)
 
-[Work in progress]   
-This analysis utilizes the data I scraped before [here](https://github.com/johmakinen/Various_projects/blob/main/Notebooks/house_scraper.ipynb). The purpose of this analysis is to look at real data from the capital area of Finland regarding multiple types of houses and apartments. In the end, I would like to be able to predict the price of a house given some common features such as size, location and age. 
+The purpose of this analysis is to look at real data from the capital area of Finland regarding multiple types of houses and apartments. We got the data using our self-built data scraper for Finnish house listings ([see here](https://github.com/johmakinen/Various_projects/blob/main/Notebooks/house_scraper.ipynb). Then we performed Exploratory Data Analysis to see what insights we could get from the data. Afterwards, we implemented several models to predict the price of a house using given features like size, the year it was built and the area which it is within the Helsinki metropolitan area.   
+Our models performed quite well, most notably the two-model approach, where we fit two models: one for low priced houses and one for the rest. The explained variance for each of the models was almost 90%.      
+This analysis and these models could be used to make an informed decision on giving suggestion prices for people who are selling their houses.  
+This could also be used by potential house buyers to see if the house they are looking at has the features to match the price, or if the seller trying to overprice the listing.
 
 ### Classification
 
