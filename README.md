@@ -52,14 +52,14 @@ This could also be used by potential house buyers to see if the house they are l
 In this analysis, I explored a [dataset](https://www.kaggle.com/sakshigoyal7/credit-card-customers) of credit card customers and then created a Gradient Boosting Classifier to predict whether a customer would be churning out. This is an important task for many businesses because you can directly improve profits if you can improve customer retention. Using my model, we could target the customers that are predicted to churn out, and give them more benefits or target them with lucrative campaigns so that they would not drop out. The implemented model has high accuracy (both Precision & Recall > 90%), but is also simple enough to be understood easily. Upsampling was used to tackle the problem of highly imbalanced data.
 
 
-### Clustering
-
-### Natural language processing
-
-### Neural networks
-
 ### Miscellaneous
 
 #### House price data scraper [![github_link](https://img.shields.io/badge/-Github-blueviolet?style=flat-square&logo=github&logoColor=white&link=https://github.com/johmakinen/Various_projects/blob/main/Notebooks/house_scraper.ipynb)](https://github.com/johmakinen/Various_projects/blob/main/Notebooks/house_scraper.ipynb)
 
 I was not content with the data on house prices available in Finland, and thus I created a web scraper that could extract the prices of houses and apartments in any city of Finland. The scraper uses Selenium for the scraping and is implemented with an Object-Oriented Programming style. The data is then stored in an SQLite database for later use. SQLite was great for data storage in this case, as it was easy to implement but the framework was also flexible enough for concurrent use and updating. The hardest part of this project was the inconsistency of the data. You could have wildly different house listing information for each house, so I had to come up with error handling. This was particularly important as I didn't want to waste time losing thousands of observations due to an error.
+
+### Clustering
+
+### Natural language processing
+
+### Neural networks
