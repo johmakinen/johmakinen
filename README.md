@@ -1,8 +1,7 @@
-Hi! 👋       
-Here you can find all my public repos.   
-You can also see my Github pages portfolio here &rarr; [![github_link](https://img.shields.io/badge/-Github-blueviolet?logo=github&logoColor=white&https://johmakinen.github.io)](https://johmakinen.github.io)
-
+Hi! 👋   
 <!-- 
+# Here you can find all my public repos.   
+# You can also see my Github pages portfolio here &rarr; [![github_link](https://img.shields.io/badge/-Github-blueviolet?logo=github&logoColor=white&https://johmakinen.github.io)](https://johmakinen.github.io)
 # Data science portfolio by Johannes Mäkinen
 
 
